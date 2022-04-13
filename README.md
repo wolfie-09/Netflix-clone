@@ -9,9 +9,8 @@
 [Demo](#demo)
 
 - [Live Site](#live-site-demo)
-- [Video](#video-demo)
 
-[Tech Stack](#tech-stack)
+[Stack](#tech-stack)
 
 [About](#Implementation-Hightlights)
 
@@ -29,7 +28,7 @@ Demo: [Link](https://netflix-clone-c0154.web.app/)
 
 ---
 
-## Tech Stack
+## Stack
 
 - [React](https://github.com/facebook/react) 
   - Create-react-app with highly complex frontend structure
