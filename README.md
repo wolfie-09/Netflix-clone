@@ -66,3 +66,11 @@ Netflix clone made with advanced react, redux & firebase which uses redux thunk 
 - Movie and TV Pages dynamically generated for every single movie
 - Details include imdb rating, cast info, trailer links
 - Add to list feature active throughout the app
+
+## Author
+
+- Jay
+
+## License
+
+- API data from TMDB API.
