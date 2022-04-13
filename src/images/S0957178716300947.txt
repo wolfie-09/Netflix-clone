@@ -1,0 +1,11 @@
+Cherrelle Eid, Elta Koliou, Mercedes Valles, Javier Reneses, Rudi Hakvoort,
+Time-based pricing and electricity demand response: Existing barriers and next steps,
+Utilities Policy,
+Volume 40,
+2016,
+Pages 15-25,
+ISSN 0957-1787,
+https://doi.org/10.1016/j.jup.2016.04.001.
+(https://www.sciencedirect.com/science/article/pii/S0957178716300947)
+Abstract: Interest in Demand Response (DR) is increasing due to its potential to improve reliability and save costs for electricity systems. DR can provide a sustainable and cost-effective option for supply balancing, especially in a scenario with more volatile inflows from renewable energy sources. End-users can be incentivized to provide DR through time-based pricing in general and dynamic pricing in particular. This paper provides a theoretic framework and practice-oriented review of the status of DR in Europe, outlining the major challenges currently hampering further DR development. Important challenges involve the split-incentive issue for investments in enabling technologies, traditional market rules for flexibility that favor large generation units and the need for electricity market and network operation coordination.
+Keywords: Smart grid; Demand side management; Tariffs
