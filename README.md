@@ -62,5 +62,7 @@ Netflix clone made with advanced react, redux & firebase which uses redux thunk 
 - Implement more features as a personal practice project
 - Add user profile data, profile picture and personal data setup
 - Add paginations and setup category sorting
-- Add python scraper to customize recommendations for each user
-- Move backend and database to node and express.
+- A searchbar to search through TMDB database
+- Movie and TV Pages dynamically generated for every single movie
+- Details include imdb rating, cast info, trailer links
+- Add to list feature active throughout the app
